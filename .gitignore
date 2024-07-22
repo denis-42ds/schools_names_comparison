@@ -1,5 +1,5 @@
 data
-mlflow_experiments_store
+models
 __pycache__
 .ipynb_checkpoints
 *.env

@@ -7,8 +7,6 @@
 ## Описание рабочих файлов и директорий:
 - [school_names.ipynb](https://github.com/denis-42ds/schools_names_comparison/blob/development/school_names.ipynb) - рабочая тетрадь с исследованиями, визуализациями и текстовыми описаниями
 - [requirements.txt](https://github.com/denis-42ds/schools_names_comparison/blob/development/requirements.txt) - список зависимостей, необходимых для работы проекта, а также их версии
-- [research_functions.py](https://github.com/denis-42ds/schools_names_comparison/blob/development/research_functions.py) - скрипт с функциями для проведения исследования
-- [assets](https://github.com/denis-42ds/schools_names_comparison/tree/development/assets) - директория с сохранёнными артефактами
 - [services](https://github.com/denis-42ds/schools_names_comparison/tree/development/services) - директория с приложением
 
 ## Установка зависимостей и просмотр исследования
