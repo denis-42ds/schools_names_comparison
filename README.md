@@ -62,9 +62,7 @@ docker compose up --build
 - Создать демо приложение
 
 ## Используемые инструменты
-- python: ;
-- mlflow;
-- postgresql;
+- python: pandas, numpy, sentence_transformers;
 - bash;
 - fastapi, grafana, prometheus
 
