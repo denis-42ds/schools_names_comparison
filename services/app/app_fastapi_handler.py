@@ -1,7 +1,6 @@
 """Класс FastApiHandler, который обрабатывает запрос и возвращает наименование школы."""
 
 import os
-import json
 import joblib
 import logging
 import numpy as np
@@ -112,7 +111,7 @@ class FastApiHandler:
             logging.error(f"Error while handling request: {e}")
             return {"Error": "Problem with request"}
         else:
-            return json.dumps(response)
+            return response
 
 if __name__ == "__main__":
 
